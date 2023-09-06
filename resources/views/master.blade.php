@@ -24,5 +24,12 @@
         height:500px;
         padding-top:100px;
     }
+    button.btn.btn-primary {
+    margin-top: 10px;
+    
+}
+label {
+    margin: 4px;
+}
 </style>
 </html>
